@@ -1,5 +1,4 @@
 resource{}
 
 
-
-ce2
+ec2
